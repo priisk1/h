@@ -1,9 +1,10 @@
 ---
+public: true
+---
 title: Сысерть
 date: 2026-07-31
 tags:
 categories:
-public: true
 --- 
 Поиск дома
   
